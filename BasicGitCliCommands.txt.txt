@@ -1,0 +1,6 @@
+1) Add a file first to directory and use following cli commands to push it to repository.
+# Commands
+git status					#shows status of files in dir
+git add						#adds a file ready for commit, example: git add index.html
+git commit -m "MESSAGE"		#Commits file with message and ready for push, example: git commit -m "added index.html"
+git push					#Pushes file up to repository.
